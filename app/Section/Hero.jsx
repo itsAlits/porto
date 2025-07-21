@@ -32,8 +32,8 @@ export default function Hero() {
             className="w-full lg:w-3/4 text-gray-400 mt-4"
           >
             <p className="text-sm lg:text-lg">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident
-              at commodi quaerat molestias! Sed ex deleniti sapiente magni.
+              Independent badn’t creative developer, based in Bali, Indonesia.
+              Focus on building websites with motion and interaction.
             </p>
           </motion.div>
           <motion.div
