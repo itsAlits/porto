@@ -47,10 +47,10 @@ export default function Navbar() {
                 ))}
               </ul>
             </div>
-            <a className="text-lg hidden lg:block">daisyUI</a>
+            <a className="text-lg hidden lg:block">Ngakan Alit</a>
           </div>
           <a className="text-lg w-full text-end pe-6 lg:hidden block">
-            daisyUI
+            Ngakan Alit
           </a>
           <div className="navbar-end hidden lg:flex">
             <ul className="menu text-xs text-gray-300 menu-horizontal px-1">
